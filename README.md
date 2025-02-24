@@ -18,3 +18,5 @@ This project builds a scalable data ingestion pipeline for airline-related datas
 🔹 **Data Storage:** Amazon S3 (Raw & Processed Data), Redshift  
 🔹 **Monitoring & Alerts:** Amazon SNS  
 
+## Workflow
+![Airline_Data_Ingestion_Project_workflow](https://github.com/user-attachments/assets/520887a7-124e-44fc-9afc-47278f48e5c7)

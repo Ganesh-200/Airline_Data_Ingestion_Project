@@ -1,6 +1,7 @@
 # Airline Data Ingestion Project ✈️
 ### Automated Data Pipeline using AWS Glue, Redshift & Step Functions
-![Project Banner](https://raw.githubusercontent.com/Ganesh-200/Airline_Data_Ingestion_Project/main/project-banner.png)
+![project-banner.png](https://github.com/user-attachments/assets/b83ff96c-a732-434a-85c0-ed8b6c8e29b4)
+(https://raw.githubusercontent.com/Ganesh-200/Airline_Data_Ingestion_Project/main/project-banner.png)
 
 ## 📌 Overview
 This project builds a scalable data ingestion pipeline for airline-related datasets using AWS services. The pipeline automatically extracts, transforms, and loads (ETL) data into Amazon Redshift, enabling efficient querying and analysis. This data pipeline is mainly designed to respond quickly for a customer queries about their flight booking information by a customer care executive effectively with the valuable insights like arrival delay time, daparture delay time, etc.
